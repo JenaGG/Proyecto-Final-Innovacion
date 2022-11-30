@@ -1,0 +1,497 @@
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Recursos.resx
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Recursos.Designer.cs
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\DataBase\Data.sqlite
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.config
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.manifest
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.application
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.pdb
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.dll
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.pdb
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll.config
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.xml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.xml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csprojAssemblyReference.cache
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Ajustes.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Alarma.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\App.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_Content.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.cache
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.lref
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Ajustes.baml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Alarma.baml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.baml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.baml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.baml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.baml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.baml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.g.resources
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Recursos.resources
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Properties.Resources.resources
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.GenerateResource.cache
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CoreCompileInputs.cache
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.TrustInfo.xml
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe.manifest
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.application
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CopyComplete
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe
+C:\Users\jreye\Desktop\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.pdb
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csprojAssemblyReference.cache
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Ajustes.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Alarma.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\App.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_Content.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.cache
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.lref
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.pdb
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Recursos.resx
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Recursos.Designer.cs
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\DataBase\Data.sqlite
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.config
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.manifest
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.application
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.pdb
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.dll
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.pdb
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll.config
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.xml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.xml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Ajustes.baml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Alarma.baml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.baml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.baml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.baml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.baml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.baml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.g.resources
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Recursos.resources
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Properties.Resources.resources
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.GenerateResource.cache
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CoreCompileInputs.cache
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.TrustInfo.xml
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe.manifest
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.application
+C:\Users\jreye\Desktop\Asistente STABLE - copia\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CopyComplete
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csprojAssemblyReference.cache
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Ajustes.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Alarma.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\App.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_Content.g.cs
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.cache
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.lref
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.pdb
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Recursos.resx
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Recursos.Designer.cs
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\DataBase\Data.sqlite
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.config
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.pdb
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.dll
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.pdb
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll.config
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.xml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.xml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Ajustes.baml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Alarma.baml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.baml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.baml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.baml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.baml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.baml
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.g.resources
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Recursos.resources
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Properties.Resources.resources
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.GenerateResource.cache
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CoreCompileInputs.cache
+C:\Users\jreye\Desktop\Asistente STABLE code\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CopyComplete
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Recursos.resx
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Recursos.Designer.cs
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\DataBase\Data.sqlite
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.config
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.pdb
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.pdb
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll.config
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.xml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.xml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csprojAssemblyReference.cache
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Ajustes.g.cs
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Alarma.g.cs
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.g.cs
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.g.cs
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.g.cs
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.g.cs
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.g.cs
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\App.g.cs
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_Content.g.cs
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.cache
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.lref
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Ajustes.baml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Alarma.baml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.baml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.baml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.baml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.baml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.baml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.g.resources
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Recursos.resources
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Properties.Resources.resources
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.GenerateResource.cache
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CoreCompileInputs.cache
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CopyComplete
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.pdb
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.dll
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jreye\Desktop\Nueva carpeta\Asistente STABLE\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.xml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Recursos.resx
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Recursos.Designer.cs
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\DataBase\Data.sqlite
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.config
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.pdb
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.dll
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.dll
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.dll
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.pdb
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll.config
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.xml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.pdb
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.xml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.xml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll.config
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.xml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csprojAssemblyReference.cache
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Ajustes.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Alarma.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\App.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_Content.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.cache
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.lref
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Ajustes.baml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Alarma.baml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.baml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.baml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.baml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.baml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.baml
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.g.resources
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Recursos.resources
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Properties.Resources.resources
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.GenerateResource.cache
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CoreCompileInputs.cache
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CopyComplete
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe
+D:\Users\genar\Desktop\Pincipios Electricos\AsistenteVirtualSTABLE\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.pdb
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Recursos.resx
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Recursos.Designer.cs
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\DataBase\Data.sqlite
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.config
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.pdb
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.dll
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.dll
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.dll
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.pdb
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll.config
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.xml
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.pdb
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.xml
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.xml
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll.config
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.xml
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csprojAssemblyReference.cache
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Ajustes.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Alarma.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\App.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_Content.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.cache
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.lref
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Ajustes.baml
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Alarma.baml
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.baml
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.baml
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.baml
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.baml
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.baml
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.g.resources
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Recursos.resources
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Properties.Resources.resources
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.GenerateResource.cache
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CoreCompileInputs.cache
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CopyComplete
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe
+D:\Users\genar\Desktop\Pincipios Electricos\Prueba asistente casi full\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.pdb
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csprojAssemblyReference.cache
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Ajustes.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Alarma.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\App.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_Content.g.cs
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.cache
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.lref
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.pdb
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Recursos.resx
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Recursos.Designer.cs
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\DataBase\Data.sqlite
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.config
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.pdb
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.dll
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.dll
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.dll
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.pdb
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll.config
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.xml
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.pdb
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.xml
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.xml
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll.config
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.xml
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Ajustes.baml
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Alarma.baml
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.baml
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.baml
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.baml
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.baml
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.baml
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.g.resources
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Recursos.resources
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Properties.Resources.resources
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.GenerateResource.cache
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CoreCompileInputs.cache
+D:\Users\genar\Desktop\Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CopyComplete
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Recursos.resx
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Recursos.Designer.cs
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\DataBase\Data.sqlite
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.config
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.pdb
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.dll
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.dll
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.dll
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.pdb
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll.config
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.xml
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.pdb
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.xml
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.xml
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll.config
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.xml
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csprojAssemblyReference.cache
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Ajustes.g.cs
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Alarma.g.cs
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.g.cs
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.g.cs
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.g.cs
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.g.cs
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.g.cs
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\App.g.cs
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_Content.g.cs
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.cache
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.lref
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Ajustes.baml
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Alarma.baml
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.baml
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.baml
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.baml
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.baml
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.baml
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.g.resources
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Recursos.resources
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Properties.Resources.resources
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.GenerateResource.cache
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CoreCompileInputs.cache
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CopyComplete
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe
+D:\Users\genar\Desktop\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.pdb
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Recursos.resx
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Recursos.Designer.cs
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\DataBase\Data.sqlite
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.config
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.pdb
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.dll
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.dll
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.dll
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.dll
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.pdb
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll.config
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.xml
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.xml
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.pdb
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.xml
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.xml
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll.config
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.xml
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.AssemblyReference.cache
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.SuggestedBindingRedirects.cache
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Ajustes.g.cs
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Alarma.g.cs
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.g.cs
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.g.cs
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.g.cs
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.g.cs
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.g.cs
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\App.g.cs
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_Content.g.cs
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.cache
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.lref
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Ajustes.baml
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Alarma.baml
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.baml
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.baml
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.baml
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.baml
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.baml
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.g.resources
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Recursos.resources
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Properties.Resources.resources
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.GenerateResource.cache
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CoreCompileInputs.cache
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CopyComplete
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe
+F:\Escuela 4to semestre\03 Pincipios Electricos\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.pdb
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Recursos.resx
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Recursos.Designer.cs
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\DataBase\Data.sqlite
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe.config
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.exe
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\AsistenteVirtual.pdb
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.dll
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.dll
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.dll
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.EF6.dll
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.Linq.dll
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.dll
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.pdb
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\BibliotecaAsistente.dll.config
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.xml
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\EntityFramework.SqlServer.xml
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.pdb
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Newtonsoft.Json.xml
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.xml
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\System.Data.SQLite.dll.config
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\bin\Debug\Telegram.Bot.xml
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.AssemblyReference.cache
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.SuggestedBindingRedirects.cache
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Ajustes.g.cs
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Alarma.g.cs
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.g.cs
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.g.cs
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.g.cs
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.g.cs
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.g.cs
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\App.g.cs
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_Content.g.cs
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.cache
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual_MarkupCompile.lref
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Ajustes.baml
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Alarma.baml
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\Calculadora Cientifica.baml
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\ComandosSistema.baml
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\ControlSerial.baml
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\EditorCmd.baml
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\InterfazPrincipal.baml
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.g.resources
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Recursos.resources
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.Properties.Resources.resources
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.GenerateResource.cache
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CoreCompileInputs.cache
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtualSTABLE.csproj.CopyComplete
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.exe
+e:\Users\genar\Desktop\02 Innovacion\Asistente Virtual\AsistenteVirtualSTABLE\obj\Debug\AsistenteVirtual.pdb
